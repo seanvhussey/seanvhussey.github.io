@@ -1,5 +1,8 @@
 # seanvhussey.github.io
 
+---
+
+**HW**
 In this assignment we were challenged to make a portfolio website using HTML, CSS and Bootstrap.
 I utilized my knowledge of the bootstrap grid format as well as flex box.
 Using these skills i was able to format my website properly to display different elements.
